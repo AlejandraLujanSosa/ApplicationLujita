@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28308660473",
+    "firebase_url": "https://application-lujita2020.firebaseio.com",
+    "project_id": "application-lujita2020",
+    "storage_bucket": "application-lujita2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28308660473:android:20747f37bff083ccba8228",
+        "android_client_info": {
+          "package_name": "com.example.applicationlujita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28308660473-1aeg17l7m45iqlgf5e7hbsrp9k84telk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeI-kRRm1XopKh8VHjDM5xuNj2Q8hTfLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28308660473-1aeg17l7m45iqlgf5e7hbsrp9k84telk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
